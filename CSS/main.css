@@ -7,13 +7,13 @@ html {
 
 h1{
   font-weight: normal;
-  font-size: 4rem;
-  font-style: italic;
+  font-size: 5rem;
+  font-style: none;
   text-decoration: underline;
   text-align: center;
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
-  color: #b2b2b3;
+  color: white;
 }
 
 h2{
