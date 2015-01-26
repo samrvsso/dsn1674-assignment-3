@@ -1,6 +1,7 @@
 html {
-  background-color: green;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
-  text-align: left;
+  background-color: lime green;
+}
+
+h1, h2 {
+  colour: white;
 }
