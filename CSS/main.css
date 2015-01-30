@@ -8,7 +8,6 @@ html {
 h1{
   font-weight: normal;
   font-size: 5rem;
-  font-style: none;
   text-decoration: underline;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -27,14 +26,14 @@ h2{
 
 ol {
   list-style-type: lower-roman;
-  padding: 1;
+  padding: 0;
   line-height: 1.5;
   font-size: 1rem;
 }
 
 nav {
   list-style-type: none;
-  padding: 1;
+  padding: 0;
 }
 
 blockquote{
@@ -43,7 +42,7 @@ blockquote{
 }
 
 figcaption{
-  font-size:1.5;
+  font-size:1.5rem;
   font-style: italic;
 }
 
